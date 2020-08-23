@@ -5,4 +5,4 @@
 - Just run the below command in cmd prompt.
 > pip install -r requirements.txt
 
-The link to the dataset : https://www.kaggle.com/CooperUnion/cardataset
+- The link to the dataset : https://www.kaggle.com/CooperUnion/cardataset
