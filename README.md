@@ -5,5 +5,4 @@ The repo has a requirements.txt file included and you can install the required l
 Just run the below command in cmd prompt.
 > pip install -r requirements.txt
 
-The link to the dataset is provided below.
-https://www.kaggle.com/CooperUnion/cardataset
+The link to the dataset : https://www.kaggle.com/CooperUnion/cardataset
